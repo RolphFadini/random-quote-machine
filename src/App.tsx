@@ -40,6 +40,7 @@ function App() {
 
 	return (
 		<div
+			id="root"
 			className="background"
 			style={{ backgroundColor: randomColor, transition }}
 		>
